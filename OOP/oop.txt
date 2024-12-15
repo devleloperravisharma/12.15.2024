@@ -1,0 +1,4 @@
+what does OOP stand for?, Object oriented programming(OOP)
+what is OOP, OOP is a program that mainly focuses on the way of using an object, and focuses more on them
+what is an object, an object is something that has features and/or functions
+what can it also be used with, OOP is also compatible with C++ and java
